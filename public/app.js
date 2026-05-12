@@ -88,12 +88,7 @@ async function loadRankings() {
   setStatus("加载中...");
 
   try {
-    const response = await fetch("/api/rankings");
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
-    }
-
-    const data = await response.json();
+    const data = await fetchRankingsData();
     document.title = data.title || document.title;
     cards = Array.isArray(data.cards) ? data.cards : [];
 
@@ -109,6 +104,25 @@ async function loadRankings() {
     setStatus("加载失败，请稍后重试。", "error");
     console.error(error);
   }
+}
+
+async function fetchRankingsData() {
+  const endpoints = ["/api/rankings", "rankings.json"];
+  let lastError = null;
+
+  for (const endpoint of endpoints) {
+    try {
+      const response = await fetch(endpoint, { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`${endpoint} HTTP ${response.status}`);
+      }
+      return response.json();
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  throw lastError || new Error("No rankings endpoint available");
 }
 
 document.querySelector("#footerYear").textContent = new Date().getFullYear();

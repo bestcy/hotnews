@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js",
+    "build:static": "node scripts/build-static.js",
     "test": "node scripts/source-smoke-test.js",
     "test:sources": "node scripts/source-smoke-test.js"
   },
