@@ -6,7 +6,11 @@ const itemTemplate = document.querySelector("#itemTemplate");
 
 let cards = [];
 let activeFilter = "游戏";
+
+// These categories remain in the data but are not shown as top-level tabs.
 const hiddenFilters = new Set(["综合", "娱乐"]);
+
+// Hidden categories are merged into the news tab so their cards stay discoverable.
 const mergedFilters = new Map([
   ["综合", "新闻"],
   ["娱乐", "新闻"],
@@ -112,6 +116,7 @@ async function loadRankings() {
 }
 
 async function fetchRankingsData() {
+  // Local/server deployments expose an API; GitHub Pages reads the static JSON.
   const endpoints = ["api/rankings", "rankings.json"];
   let lastError = null;
 
@@ -135,6 +140,9 @@ function normalizeAssetUrl(value) {
   if (/^https?:\/\//.test(url)) {
     return url;
   }
+
+  // GitHub Pages serves this project under /hotnews/, so root-relative asset
+  // paths from API data need to become page-relative paths.
   return url.replace(/^\/+/, "");
 }
 
