@@ -47,7 +47,7 @@ function renderCards() {
     const footerNode = fragment.querySelector(".update-footer");
 
     cardNode.dataset.filter = card.category;
-    iconNode.src = card.icon;
+    iconNode.src = normalizeAssetUrl(card.icon);
     iconNode.alt = `${card.platform} 图标`;
     platformNode.textContent = card.platform;
     footerNode.textContent = card.updatedAtText;
@@ -107,7 +107,7 @@ async function loadRankings() {
 }
 
 async function fetchRankingsData() {
-  const endpoints = ["/api/rankings", "rankings.json"];
+  const endpoints = ["api/rankings", "rankings.json"];
   let lastError = null;
 
   for (const endpoint of endpoints) {
@@ -123,6 +123,14 @@ async function fetchRankingsData() {
   }
 
   throw lastError || new Error("No rankings endpoint available");
+}
+
+function normalizeAssetUrl(value) {
+  const url = String(value || "");
+  if (/^https?:\/\//.test(url)) {
+    return url;
+  }
+  return url.replace(/^\/+/, "");
 }
 
 document.querySelector("#footerYear").textContent = new Date().getFullYear();
