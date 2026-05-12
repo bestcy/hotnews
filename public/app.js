@@ -7,6 +7,10 @@ const itemTemplate = document.querySelector("#itemTemplate");
 let cards = [];
 let activeFilter = "游戏";
 const hiddenFilters = new Set(["综合", "娱乐"]);
+const mergedFilters = new Map([
+  ["综合", "新闻"],
+  ["娱乐", "新闻"],
+]);
 
 function setStatus(message, type = "") {
   statusNode.textContent = message;
@@ -35,7 +39,8 @@ function renderCards() {
   grid.innerHTML = "";
 
   const visibleCards = cards.filter((card) => {
-    return activeFilter === "全部" || card.category === activeFilter;
+    const category = mergedFilters.get(card.category) || card.category;
+    return activeFilter === "全部" || category === activeFilter;
   });
 
   visibleCards.forEach((card) => {
