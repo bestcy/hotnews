@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HotNews</title>
+    <meta
+      name="description"
+      content="抖音、微博、百度、今日头条、腾讯新闻、哔哩哔哩、快手、知乎、豆瓣等多平台热榜"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <section class="filter-section" aria-label="分类筛选">
+        <div class="filter-bar" id="filterBar">
+          <button class="filter-btn active" type="button" data-filter="全部">全部</button>
+        </div>
+      </section>
+
+      <main class="grid" id="grid" aria-live="polite"></main>
+
+      <div class="status" id="status">加载中...</div>
+
+      <footer>
+        <p>
+          <span id="footerYear"></span>
+          <a href="https://rebang.open2hub.com/rebang-about.html" target="_blank" rel="noreferrer">
+            关于
+          </a>
+        </p>
+      </footer>
+    </div>
+
+    <template id="cardTemplate">
+      <section class="card">
+        <div class="card-header">
+          <div class="platform-name">
+            <span class="platform-icon">
+              <img alt="" loading="lazy" decoding="async" />
+            </span>
+            <span class="platform-name-span"></span>
+          </div>
+        </div>
+        <div class="list"></div>
+        <div class="card-footer">
+          <span class="update-footer"></span>
+        </div>
+      </section>
+    </template>
+
+    <template id="itemTemplate">
+      <a class="list-item" target="_blank" rel="noopener noreferrer">
+        <span></span>
+      </a>
+    </template>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
