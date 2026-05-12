@@ -6,6 +6,8 @@ const { buildStatus } = require("../sources/helpers");
 const OUTPUT_FILE = path.join(__dirname, "..", "public", "rankings.json");
 
 async function collectRankings() {
+  // GitHub Pages has no Node server, so Actions runs every scraper here and
+  // writes the API-shaped payload to a static JSON file.
   const results = await Promise.allSettled(
     sources.map(async (source) => {
       const card = await source.scrape();
@@ -19,6 +21,7 @@ async function collectRankings() {
   const cards = [];
   const sourceStatus = [];
 
+  // A failed source should not break the whole static build.
   results.forEach((result, index) => {
     const source = sources[index];
     if (result.status === "fulfilled") {

@@ -6,6 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
+    # GitHub cron uses UTC; this refreshes the static rankings every 30 minutes.
     - cron: "*/30 * * * *"
 
 permissions:
@@ -35,6 +36,7 @@ jobs:
         run: npm run build:static
 
       - name: Deploy
+        # Publish the static public/ directory to the gh-pages branch.
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

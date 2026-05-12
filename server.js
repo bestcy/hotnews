@@ -15,11 +15,14 @@ let cache = {
   data: null,
   fetchedAt: 0,
 };
+
+// Prevent overlapping refreshes when several users hit the API together.
 let refreshInFlight = null;
 
 app.use(express.static(path.join(__dirname, "public")));
 
 async function collectRankings() {
+  // Keep partial results when some upstream sites timeout or block requests.
   const results = await Promise.allSettled(
     sources.map(async (source) => {
       const card = await source.scrape();
@@ -73,6 +76,8 @@ async function collectRankings() {
 
 async function writeCacheToDisk(data) {
   await fs.mkdir(DATA_DIR, { recursive: true });
+
+  // Write through a temp file so a crash cannot leave a half-written JSON file.
   const tempFile = `${CACHE_FILE}.tmp`;
   await fs.writeFile(tempFile, JSON.stringify(data, null, 2), "utf8");
   await fs.rename(tempFile, CACHE_FILE);
@@ -133,6 +138,7 @@ async function fetchRankings() {
   }
 
   if (cache.data) {
+    // Serve stale data immediately and refresh in the background for low latency.
     refreshRankings().catch((error) => {
       console.error(`Background refresh failed: ${error.message}`);
     });
@@ -161,6 +167,7 @@ app.use((_req, res) => {
 async function bootstrap() {
   await restoreCacheFromDisk();
 
+  // Warm the cache after startup without blocking the HTTP server.
   refreshRankings(true).catch((error) => {
     console.error(`Initial refresh failed: ${error.message}`);
   });

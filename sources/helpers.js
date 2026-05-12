@@ -3,6 +3,7 @@ const cheerio = require("cheerio");
 const REQUEST_TIMEOUT_MS = 12000;
 
 function normalizeText(value) {
+  // Titles from different sites often contain newlines or repeated spaces.
   return String(value || "").replace(/\s+/g, " ").trim();
 }
 
@@ -32,6 +33,7 @@ async function fetchText(url, options = {}) {
   const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
 
   try {
+    // A browser-like UA avoids basic bot blocks on many news pages.
     const response = await fetch(url, {
       signal: controller.signal,
       headers: {
@@ -62,6 +64,7 @@ function loadHtml(html, options) {
 }
 
 function buildCard({ platform, category, icon, updatedAtText, sourceUrl, items }) {
+  // All source modules normalize into this common card shape for the UI.
   return {
     platform,
     category,
