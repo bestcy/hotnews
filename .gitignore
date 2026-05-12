@@ -1,0 +1,9 @@
+node_modules/
+
+data/*
+!data/.gitkeep
+
+*.log
+tmp_*.html
+.env
+.env.*
