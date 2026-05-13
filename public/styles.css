@@ -33,6 +33,33 @@ a {
   color: inherit;
 }
 
+.analytics-widget {
+  position: fixed;
+  top: 14px;
+  left: 14px;
+  z-index: 20;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--text-tertiary);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.06);
+  backdrop-filter: blur(10px);
+}
+
+.analytics-label {
+  font-size: 12px;
+}
+
+.analytics-value {
+  color: var(--text-primary);
+  font-size: 13px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
 .container {
   max-width: 1240px;
   margin: 0 auto;
@@ -293,6 +320,12 @@ footer a {
 @media (max-width: 768px) {
   .container {
     padding: 24px 16px;
+  }
+
+  .analytics-widget {
+    top: 8px;
+    left: 8px;
+    padding: 5px 8px;
   }
 
   header {
