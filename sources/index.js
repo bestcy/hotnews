@@ -1,4 +1,5 @@
 module.exports = [
+  require("./zhihu"),
   require("./36kr"),
   require("./toutiao"),
   require("./tieba"),

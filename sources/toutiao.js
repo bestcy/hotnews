@@ -5,12 +5,18 @@ module.exports = {
   async scrape() {
     const url = "https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc";
     const json = await fetchJson(url);
-    const items = (json.data || []).slice(0, 10).map((entry, index) => ({
-      rank: index + 1,
-      title: entry.Title || entry.QueryWord,
-      href: absoluteUrl(entry.Url, "https://www.toutiao.com"),
-      meta: entry.HotValue ? `热度 ${entry.HotValue}` : "",
-    }));
+    const items = (json.data || [])
+      .map((entry) => ({
+        title: entry.Title || entry.QueryWord,
+        href: absoluteUrl(entry.Url, "https://www.toutiao.com"),
+        meta: entry.HotValue ? `热度 ${entry.HotValue}` : "",
+      }))
+      .filter((item) => String(item.title || "").trim().length >= 8)
+      .slice(0, 10)
+      .map((item, index) => ({
+        rank: index + 1,
+        ...item,
+      }));
 
     return buildCard({
       platform: "今日头条",

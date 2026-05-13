@@ -9,18 +9,28 @@ module.exports = {
     const items = [];
 
     $(".category-wrap_iQLoo")
-      .slice(0, 10)
       .each((index, element) => {
+        if (items.length >= 10) {
+          return false;
+        }
+
         const node = $(element);
         const href = node.find("a").first().attr("href");
-        const title = node.find(".c-single-text-ellipsis").first().text();
+        const title = normalizeText(node.find(".c-single-text-ellipsis").first().text());
         const hotValue = node.find(".hot-index_1Bl1a").first().text();
+
+        if (title.length < 8) {
+          return undefined;
+        }
+
         items.push({
-          rank: index + 1,
+          rank: items.length + 1,
           title,
           href: absoluteUrl(href, "https://top.baidu.com"),
           meta: hotValue ? `热搜指数 ${normalizeText(hotValue)}` : "",
         });
+
+        return undefined;
       });
 
     return buildCard({
