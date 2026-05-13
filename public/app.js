@@ -158,9 +158,9 @@ async function loadAnalytics() {
     const data = await response.json();
     enableGoatCounter(data.goatcounterCode);
 
-    if (Number.isFinite(data.yesterdayVisits)) {
-      analyticsValue.textContent = formatNumber(data.yesterdayVisits);
-      analyticsWidget.title = `统计日期 ${data.yesterdayDate || "昨日"}`;
+    if (Number.isFinite(data.todayVisits)) {
+      analyticsValue.textContent = formatNumber(data.todayVisits);
+      analyticsWidget.title = `统计日期 ${data.todayDate || "今日"}`;
       return;
     }
 

@@ -4,15 +4,15 @@ const path = require("path");
 const OUTPUT_FILE = path.join(__dirname, "..", "public", "analytics.json");
 const BEIJING_OFFSET_MS = 8 * 60 * 60 * 1000;
 
-function getYesterdayRange() {
+function getTodayRange() {
   const beijingNow = new Date(Date.now() + BEIJING_OFFSET_MS);
   const year = beijingNow.getUTCFullYear();
   const month = beijingNow.getUTCMonth();
   const day = beijingNow.getUTCDate();
 
-  const start = new Date(Date.UTC(year, month, day - 1, -8, 0, 0));
-  const end = new Date(Date.UTC(year, month, day, -8, 0, 0));
-  const date = new Date(Date.UTC(year, month, day - 1))
+  const start = new Date(Date.UTC(year, month, day, -8, 0, 0));
+  const end = new Date();
+  const date = new Date(Date.UTC(year, month, day))
     .toISOString()
     .slice(0, 10);
 
@@ -27,12 +27,12 @@ function basePayload(extra = {}) {
   return {
     provider: "goatcounter",
     generatedAt: new Date().toISOString(),
-    yesterdayVisits: null,
+    todayVisits: null,
     ...extra,
   };
 }
 
-async function fetchYesterdayVisits(code, token, range) {
+async function fetchTodayVisits(code, token, range) {
   const url = new URL(`https://${code}.goatcounter.com/api/v0/stats/total`);
   url.searchParams.set("start", range.start.toISOString());
   url.searchParams.set("end", range.end.toISOString());
@@ -65,13 +65,13 @@ async function writeAnalytics(payload) {
 async function run() {
   const code = process.env.GOATCOUNTER_CODE;
   const token = process.env.GOATCOUNTER_TOKEN;
-  const range = getYesterdayRange();
+  const range = getTodayRange();
 
   if (!code) {
     await writeAnalytics(
       basePayload({
         configured: false,
-        yesterdayDate: range.date,
+        todayDate: range.date,
         message: "Set GOATCOUNTER_CODE and GOATCOUNTER_TOKEN in GitHub Actions secrets.",
       })
     );
@@ -83,21 +83,21 @@ async function run() {
       basePayload({
         configured: true,
         goatcounterCode: code,
-        yesterdayDate: range.date,
-        message: "Set GOATCOUNTER_TOKEN to show yesterday visits.",
+        todayDate: range.date,
+        message: "Set GOATCOUNTER_TOKEN to show today visits.",
       })
     );
     return;
   }
 
   try {
-    const yesterdayVisits = await fetchYesterdayVisits(code, token, range);
+    const todayVisits = await fetchTodayVisits(code, token, range);
     await writeAnalytics(
       basePayload({
         configured: true,
         goatcounterCode: code,
-        yesterdayDate: range.date,
-        yesterdayVisits,
+        todayDate: range.date,
+        todayVisits,
       })
     );
   } catch (error) {
@@ -105,7 +105,7 @@ async function run() {
       basePayload({
         configured: true,
         goatcounterCode: code,
-        yesterdayDate: range.date,
+        todayDate: range.date,
         message: error instanceof Error ? error.message : String(error),
       })
     );
