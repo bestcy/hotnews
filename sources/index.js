@@ -1,5 +1,10 @@
 module.exports = [
   require("./zhihu"),
+  require("./qbitai"),
+  require("./aibase"),
+  require("./therouter"),
+  require("./aiera"),
+  require("./sgwenshen"),
   require("./36kr"),
   require("./toutiao"),
   require("./tieba"),
