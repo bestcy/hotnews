@@ -7,31 +7,26 @@ const {
 } = require("./helpers");
 
 module.exports = {
-  name: "anthropic",
+  name: "csdn-ai",
   async scrape() {
-    const url = "https://www.anthropic.com/news";
+    const url = "https://blog.csdn.net/nav/ai";
     const html = await fetchText(url);
     const $ = loadHtml(html);
     const seen = new Set();
     const items = [];
 
-    $('a[href*="/news/"]').each((_, element) => {
+    $('a.article-title[href*="/article/details/"]').each((_, element) => {
       if (items.length >= 10) {
         return false;
       }
 
       const node = $(element);
+      const title = normalizeText(node.text() || node.attr("title"));
       const href = absoluteUrl(node.attr("href") || "", url);
-      const title = normalizeText(
-        node.attr("title") ||
-          node.find('[class*="title"],[class*="Title"]').first().text() ||
-          node.find("h1,h2,h3,h4").first().text() ||
-          node.text()
-      );
 
       if (
         title.length < 8 ||
-        !/^https:\/\/www\.anthropic\.com\/news\/[^/#?]+$/.test(href) ||
+        !/^https:\/\/blog\.csdn\.net\/[^/]+\/article\/details\/\d+$/.test(href) ||
         seen.has(href)
       ) {
         return undefined;
@@ -48,10 +43,10 @@ module.exports = {
     });
 
     return buildCard({
-      platform: "Anthropic",
+      platform: "CSDN AI",
       category: "AI",
-      icon: "/icons/anthropic.svg",
-      updatedAtText: "AI / 官方动态",
+      icon: "/icons/csdn.svg",
+      updatedAtText: "AI / 开发实践",
       sourceUrl: url,
       items,
     });
