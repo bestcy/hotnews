@@ -1,8 +1,9 @@
 {
   "provider": "goatcounter",
-  "generatedAt": "2026-06-18T02:03:21.561Z",
+  "generatedAt": "2026-06-18T03:37:14.289Z",
   "todayVisits": null,
-  "configured": false,
+  "configured": true,
+  "goatcounterCode": "hotnews",
   "todayDate": "2026-06-18",
-  "message": "Set GOATCOUNTER_CODE and GOATCOUNTER_TOKEN in GitHub Actions secrets."
+  "message": "GoatCounter HTTP 401"
 }
