@@ -7,7 +7,7 @@ const analyticsWidget = document.querySelector("#analyticsWidget");
 const analyticsValue = document.querySelector("#analyticsValue");
 
 let cards = [];
-let activeFilter = "全部";
+let activeFilter = "新闻";
 
 // These categories remain in the data but are not shown as top-level tabs.
 const hiddenFilters = new Set(["综合", "娱乐"]);
