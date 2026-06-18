@@ -34,9 +34,6 @@ jobs:
 
       - name: Generate rankings
         run: npm run build:static
-        env:
-          GOATCOUNTER_CODE: ${{ secrets.GOATCOUNTER_CODE }}
-          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
 
       - name: Deploy
         # Publish the static public/ directory to the gh-pages branch.

@@ -3,8 +3,6 @@ const grid = document.querySelector("#grid");
 const statusNode = document.querySelector("#status");
 const cardTemplate = document.querySelector("#cardTemplate");
 const itemTemplate = document.querySelector("#itemTemplate");
-const analyticsWidget = document.querySelector("#analyticsWidget");
-const analyticsValue = document.querySelector("#analyticsValue");
 
 let cards = [];
 let activeFilter = "新闻";
@@ -148,46 +146,6 @@ function normalizeAssetUrl(value) {
   return url.replace(/^\/+/, "");
 }
 
-async function loadAnalytics() {
-  try {
-    const response = await fetch("analytics.json", { cache: "no-store" });
-    if (!response.ok) {
-      return;
-    }
-
-    const data = await response.json();
-    enableGoatCounter(data.goatcounterCode);
-
-    if (Number.isFinite(data.todayVisits)) {
-      analyticsValue.textContent = formatNumber(data.todayVisits);
-      analyticsWidget.title = `统计日期 ${data.todayDate || "今日"}`;
-      return;
-    }
-
-    analyticsWidget.title = data.message || "统计未配置";
-  } catch (error) {
-    analyticsWidget.title = "统计加载失败";
-    console.error(error);
-  }
-}
-
-function enableGoatCounter(code) {
-  if (!code || document.querySelector("script[data-goatcounter]")) {
-    return;
-  }
-
-  const script = document.createElement("script");
-  script.async = true;
-  script.src = "https://gc.zgo.at/count.js";
-  script.dataset.goatcounter = `https://${code}.goatcounter.com/count`;
-  document.head.appendChild(script);
-}
-
-function formatNumber(value) {
-  return new Intl.NumberFormat("zh-CN").format(value);
-}
-
 document.querySelector("#footerYear").textContent = new Date().getFullYear();
 bindEvents();
-loadAnalytics();
 loadRankings();
