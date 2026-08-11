@@ -6,9 +6,7 @@
     "AI",
     "财经",
     "综合",
-    "娱乐",
-    "游戏",
-    "科技"
+    "游戏"
   ],
   "cards": [
     {
@@ -20,63 +18,63 @@
       "items": [
         {
           "rank": "1",
-          "title": "上海突如其来的大暴雨，市区很多路段全面积水，无法排出的原因是什么？",
-          "href": "https://www.zhihu.com/question/2062262812324508088",
-          "meta": "491 万热度"
+          "title": "炸鸡店外卖爆单致店员压力大到崩溃痛哭，疑出现呼吸碱中毒现象，看完这一幕你想说什么？",
+          "href": "https://www.zhihu.com/question/2070522643753563407",
+          "meta": "468 万热度"
         },
         {
           "rank": "2",
-          "title": "炸鸡店外卖爆单致店员压力大到崩溃痛哭，疑出现呼吸碱中毒现象，看完这一幕你想说什么？",
-          "href": "https://www.zhihu.com/question/2070522643753563407",
-          "meta": "354 万热度"
+          "title": "上海突如其来的大暴雨，市区很多路段全面积水，无法排出的原因是什么？",
+          "href": "https://www.zhihu.com/question/2062262812324508088",
+          "meta": "339 万热度"
         },
         {
           "rank": "3",
           "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
           "href": "https://www.zhihu.com/question/2070468397289009796",
-          "meta": "273 万热度"
+          "meta": "288 万热度"
         },
         {
           "rank": "4",
-          "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
-          "href": "https://www.zhihu.com/question/2069887569639248076",
-          "meta": "248 万热度"
+          "title": "Claude证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
+          "href": "https://www.zhihu.com/question/2070452772391194651",
+          "meta": "251 万热度"
         },
         {
           "rank": "5",
           "title": "今年百花奖王宝强 0 票，对此你的看法是什么？",
           "href": "https://www.zhihu.com/question/2070427612044961729",
-          "meta": "247 万热度"
+          "meta": "206 万热度"
         },
         {
           "rank": "6",
-          "title": "Claude证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
-          "href": "https://www.zhihu.com/question/2070452772391194651",
-          "meta": "244 万热度"
+          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
+          "href": "https://www.zhihu.com/question/2070076711593406558",
+          "meta": "198 万热度"
         },
         {
           "rank": "7",
           "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至 35.4 亿人民币？",
           "href": "https://www.zhihu.com/question/2070305441545040277",
-          "meta": "213 万热度"
+          "meta": "172 万热度"
         },
         {
           "rank": "8",
-          "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
-          "href": "https://www.zhihu.com/question/2070076711593406558",
-          "meta": "190 万热度"
+          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+          "href": "https://www.zhihu.com/question/2068955233896640772",
+          "meta": "170 万热度"
         },
         {
           "rank": "9",
-          "title": "胖东来公布侵犯员工尊严案例，顾客驾车顶撞员工被行拘、掌掴员工被起诉，员工获上万元赔偿，如何看待此事？",
-          "href": "https://www.zhihu.com/question/2070467817976210988",
-          "meta": "157 万热度"
+          "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
+          "href": "https://www.zhihu.com/question/2069887569639248076",
+          "meta": "162 万热度"
         },
         {
           "rank": "10",
           "title": "现在年轻人都很少主动考驾照了，未来还有必要人手一本驾照吗？",
           "href": "https://www.zhihu.com/question/2066668547292521975",
-          "meta": "154 万热度"
+          "meta": "161 万热度"
         }
       ]
     },
@@ -426,14 +424,6 @@
       ]
     },
     {
-      "platform": "51CTO AI",
-      "category": "AI",
-      "icon": "/icons/cto51.svg",
-      "updatedAtText": "AI / 技术文章",
-      "sourceUrl": "https://www.51cto.com/ai",
-      "items": []
-    },
-    {
       "platform": "CSDN AI",
       "category": "AI",
       "icon": "/icons/csdn.svg",
@@ -442,62 +432,62 @@
       "items": [
         {
           "rank": "1",
-          "title": "让AI“活”起来！魔珐星云：给大模型装上身体，把交互从对话框拉进现实",
-          "href": "https://blog.csdn.net/JHXL_/article/details/163272486",
+          "title": "【金仓数据库征文】让 AI 直接读懂你的金仓：基于 KES MCP Server 的自然语言数据库助手实战（Trae + DeepSeek）",
+          "href": "https://blog.csdn.net/2302_78391795/article/details/163510716",
           "meta": ""
         },
         {
           "rank": "2",
-          "title": "拉开差距的不是会不会用 AI，而是会不会管 AI",
-          "href": "https://blog.csdn.net/Mrxiao_bo/article/details/163366378",
-          "meta": ""
-        },
-        {
-          "rank": "3",
           "title": "被HR说经历不垂直？夸克AI三个指令，写出对口简历",
           "href": "https://blog.csdn.net/wtyuong/article/details/163309166",
           "meta": ""
         },
         {
+          "rank": "3",
+          "title": "2026 AI Agent开发完全指南：从MCP协议到多Agent协作系统",
+          "href": "https://blog.csdn.net/weixin_54908067/article/details/162665003",
+          "meta": ""
+        },
+        {
           "rank": "4",
-          "title": "公司给不给 AI 额度，差别真的挺大",
-          "href": "https://blog.csdn.net/JHXL_/article/details/163050814",
+          "title": "用AI做市场容量预估的量化方法：从TAM/SAM/SOM到蒙特卡洛置信区间的完整工程方案",
+          "href": "https://blog.csdn.net/jiang_style/article/details/163020414",
           "meta": ""
         },
         {
           "rank": "5",
-          "title": "六年了，我还是想学编程|一个准计科生的自白",
-          "href": "https://blog.csdn.net/aleko10124/article/details/163677862",
+          "title": "【机器学习毕设】基于随机森林的boss直聘招聘数据可视化与薪资预测系统 计算机毕设选题推荐",
+          "href": "https://blog.csdn.net/qq_1445749146/article/details/163670131",
           "meta": ""
         },
         {
           "rank": "6",
-          "title": "OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手",
-          "href": "https://blog.csdn.net/weixin_74809706/article/details/162734765",
+          "title": "低代码与 AI 的融合趋势——从可视化搭建到自然语言生成应用",
+          "href": "https://blog.csdn.net/alex_goden/article/details/163305322",
           "meta": ""
         },
         {
           "rank": "7",
-          "title": "蓝耘把五个顶级 AI 塞进一个模型，我出了三道刁钻题让他们打一架",
-          "href": "https://blog.csdn.net/2301_76341691/article/details/163216963",
+          "title": "AI跨模态鉴伪技术！图片 / 视频 / 文本识别真伪",
+          "href": "https://blog.csdn.net/COLLINSXU/article/details/163035460",
           "meta": ""
         },
         {
           "rank": "8",
-          "title": "给游戏装一个AI大脑：灵引 LingGuide 具身交互智能策略伙伴开发全记录",
-          "href": "https://blog.csdn.net/COLLINSXU/article/details/162874184",
+          "title": "Claude Code 接蓝耘实测：选第三方 API 的三条铁律",
+          "href": "https://blog.csdn.net/Mrxiao_bo/article/details/163052500",
           "meta": ""
         },
         {
           "rank": "9",
-          "title": "Codex Hooks 实战：给 AI 工作流增加确定性门禁",
-          "href": "https://blog.csdn.net/weixin_74809706/article/details/162941582",
+          "title": "让AI“活”起来！魔珐星云：给大模型装上身体，把交互从对话框拉进现实",
+          "href": "https://blog.csdn.net/JHXL_/article/details/163272486",
           "meta": ""
         },
         {
           "rank": "10",
-          "title": "2026最新实测：除了PanDownload，百度网盘不限速下载还有哪些解析神器？",
-          "href": "https://blog.csdn.net/vipjx1/article/details/163678543",
+          "title": "AI越来越会“造假“，跨模态鉴伪为什么正在成为AI时代的新基建？",
+          "href": "https://blog.csdn.net/m0_73367097/article/details/163021269",
           "meta": ""
         }
       ]
@@ -529,44 +519,44 @@
         },
         {
           "rank": "4",
+          "title": "SRE Agent 选型指南：2026年企业级智能运维平台深度对比",
+          "href": "https://bbs.huaweicloud.com/blogs/484118",
+          "meta": ""
+        },
+        {
+          "rank": "5",
           "title": "在 OpenCode 中接入本地模型：Ollama 部署与配置完全指南",
           "href": "https://bbs.huaweicloud.com/blogs/480978",
           "meta": ""
         },
         {
-          "rank": "5",
+          "rank": "6",
           "title": "OpenCode 安装全攻略：4 种方式覆盖 Windows、macOS、Linux",
           "href": "https://bbs.huaweicloud.com/blogs/480514",
           "meta": ""
         },
         {
-          "rank": "6",
-          "title": "码上云启：华为云码道+Skill 一键部署云资源 Web 服务",
-          "href": "https://bbs.huaweicloud.com/blogs/479023",
-          "meta": ""
-        },
-        {
           "rank": "7",
-          "title": "从零开始：OpenCode AI 编程助手完整配置指南",
-          "href": "https://bbs.huaweicloud.com/blogs/479823",
+          "title": "从零教你做水果忍者：滑一刀满屏果汁，谁玩谁上瘾",
+          "href": "https://bbs.huaweicloud.com/blogs/484085",
           "meta": ""
         },
         {
           "rank": "8",
-          "title": "OpenCode vs Claude Code：一文看懂两者的核心区别与选型建议",
-          "href": "https://bbs.huaweicloud.com/blogs/479757",
+          "title": "2026 ITSM产品选型全景：四大核心方案对决，国产化与AI原生重构运维价值锚点",
+          "href": "https://bbs.huaweicloud.com/blogs/484102",
           "meta": ""
         },
         {
           "rank": "9",
-          "title": "备份豆包智能体，提示词比聊天记录更需要先存下来",
-          "href": "https://bbs.huaweicloud.com/blogs/484021",
+          "title": "在VS code中使用claude code agent并接入deepseek V4模型",
+          "href": "https://bbs.huaweicloud.com/blogs/477285",
           "meta": ""
         },
         {
           "rank": "10",
-          "title": "在VS code中使用claude code agent并接入deepseek V4模型",
-          "href": "https://bbs.huaweicloud.com/blogs/477285",
+          "title": "Build vs Plan：别再搞混了，OpenCode 两种模式的正确打开方式",
+          "href": "https://bbs.huaweicloud.com/blogs/480692",
           "meta": ""
         }
       ]
@@ -644,68 +634,68 @@
       "platform": "今日头条",
       "category": "新闻",
       "icon": "/icons/toutiao.svg",
-      "updatedAtText": "新闻 / 更新于 02:47",
+      "updatedAtText": "新闻 / 更新于 03:54",
       "sourceUrl": "https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc",
       "items": [
         {
           "rank": "1",
           "title": "女子3万全款购入宝鸡40平米住宅",
-          "href": "https://www.toutiao.com/trending/7672677762373664804/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672677762373664804%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%903%E4%B8%87%E5%85%A8%E6%AC%BE%E8%B4%AD%E5%85%A5%E5%AE%9D%E9%B8%A140%E5%B9%B3%E7%B1%B3%E4%BD%8F%E5%AE%85%22%7D&rank=&style_id=40132&topic_id=7672677762373664804",
-          "meta": "热度 14898034"
+          "href": "https://www.toutiao.com/trending/7672677762373664804/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672677762373664804%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%903%E4%B8%87%E5%85%A8%E6%AC%BE%E8%B4%AD%E5%85%A5%E5%AE%9D%E9%B8%A140%E5%B9%B3%E7%B1%B3%E4%BD%8F%E5%AE%85%22%7D&rank=&style_id=40132&topic_id=7672677762373664804",
+          "meta": "热度 15056459"
         },
         {
           "rank": "2",
           "title": "文献纪录片《江泽民》播出",
-          "href": "https://www.toutiao.com/trending/7672736569466060846/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672736569466060846%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%87%E7%8C%AE%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8B%E6%92%AD%E5%87%BA%22%7D&rank=&style_id=40132&topic_id=7672736569466060846",
-          "meta": "热度 13480299"
+          "href": "https://www.toutiao.com/trending/7672736569466060846/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672736569466060846%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%87%E7%8C%AE%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8B%E6%92%AD%E5%87%BA%22%7D&rank=&style_id=40132&topic_id=7672736569466060846",
+          "meta": "热度 13623648"
         },
         {
           "rank": "3",
           "title": "全方位培养、引进、用好人才",
           "href": "https://www.toutiao.com/article/7672710003240829450",
-          "meta": "热度 12197479"
+          "meta": "热度 12327186"
         },
         {
           "rank": "4",
           "title": "抗癌博主“江小鱼”去世",
-          "href": "https://www.toutiao.com/trending/7672713526239248425/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672713526239248425%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E2%80%9C%E6%B1%9F%E5%B0%8F%E9%B1%BC%E2%80%9D%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7672713526239248425",
-          "meta": "热度 11036735"
+          "href": "https://www.toutiao.com/trending/7672713526239248425/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672713526239248425%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E2%80%9C%E6%B1%9F%E5%B0%8F%E9%B1%BC%E2%80%9D%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7672713526239248425",
+          "meta": "热度 11154099"
         },
         {
           "rank": "5",
           "title": "984.5高校火了",
-          "href": "https://www.toutiao.com/trending/7672196297356673087/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672196297356673087%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22984.5%E9%AB%98%E6%A0%A1%E7%81%AB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7672196297356673087",
-          "meta": "热度 9986451"
+          "href": "https://www.toutiao.com/trending/7672196297356673087/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672196297356673087%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22984.5%E9%AB%98%E6%A0%A1%E7%81%AB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7672196297356673087",
+          "meta": "热度 10092646"
         },
         {
           "rank": "6",
-          "title": "7月销量前十仅一款燃油车",
-          "href": "https://www.toutiao.com/trending/7672231698684575807/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672231698684575807%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%227%E6%9C%88%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%BB%85%E4%B8%80%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7672231698684575807",
-          "meta": "热度 9036114"
+          "title": "租金从800降到450房东决定不租了",
+          "href": "https://www.toutiao.com/trending/7671617219173351460/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227671617219173351460%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A7%9F%E9%87%91%E4%BB%8E800%E9%99%8D%E5%88%B0450%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7671617219173351460",
+          "meta": "热度 9132204"
         },
         {
           "rank": "7",
-          "title": "比亚迪2027款海豹06上市",
-          "href": "https://www.toutiao.com/trending/7672587129632882738/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672587129632882738%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AF%94%E4%BA%9A%E8%BF%AA2027%E6%AC%BE%E6%B5%B7%E8%B1%B906%E4%B8%8A%E5%B8%82%22%7D&rank=&style_id=40132&topic_id=7672587129632882738",
-          "meta": "热度 8176214"
+          "title": "7月销量前十仅一款燃油车",
+          "href": "https://www.toutiao.com/trending/7672231698684575807/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672231698684575807%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%227%E6%9C%88%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%BB%85%E4%B8%80%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7672231698684575807",
+          "meta": "热度 8263160"
         },
         {
           "rank": "8",
-          "title": "租金从800降到450房东决定不租了",
-          "href": "https://www.toutiao.com/trending/7671617219173351460/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227671617219173351460%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A7%9F%E9%87%91%E4%BB%8E800%E9%99%8D%E5%88%B0450%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7671617219173351460",
-          "meta": "热度 7398145"
+          "title": "女子做核磁忘摘金手镯",
+          "href": "https://www.toutiao.com/trending/7671741370721402921/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227671741370721402921%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%90%E5%81%9A%E6%A0%B8%E7%A3%81%E5%BF%98%E6%91%98%E9%87%91%E6%89%8B%E9%95%AF%22%7D&rank=&style_id=40132&topic_id=7671741370721402921",
+          "meta": "热度 7476816"
         },
         {
           "rank": "9",
-          "title": "女子做核磁忘摘金手镯",
-          "href": "https://www.toutiao.com/trending/7671741370721402921/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227671741370721402921%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%90%E5%81%9A%E6%A0%B8%E7%A3%81%E5%BF%98%E6%91%98%E9%87%91%E6%89%8B%E9%95%AF%22%7D&rank=&style_id=40132&topic_id=7671741370721402921",
-          "meta": "热度 6694118"
+          "title": "手机NFC功能不要随便打开",
+          "href": "https://www.toutiao.com/trending/7672232082655182884/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672232082655182884%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%89%8B%E6%9C%BANFC%E5%8A%9F%E8%83%BD%E4%B8%8D%E8%A6%81%E9%9A%8F%E4%BE%BF%E6%89%93%E5%BC%80%22%7D&rank=&style_id=40132&topic_id=7672232082655182884",
+          "meta": "热度 6765303"
         },
         {
           "rank": "10",
-          "title": "高考444分考生回应被殡葬专业录取",
-          "href": "https://www.toutiao.com/trending/7671994340315545642/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227671994340315545642%22%2C%22hot_board_impr_id%22%3A%2220260812024757F147C55445E8986FD4D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E8%80%83444%E5%88%86%E8%80%83%E7%94%9F%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96%22%7D&rank=&style_id=40132&topic_id=7671994340315545642",
-          "meta": "热度 6057088"
+          "title": "高速服务区开水间标识被指中式英文",
+          "href": "https://www.toutiao.com/trending/7672712644710154303/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672712644710154303%22%2C%22hot_board_impr_id%22%3A%2220260812035447BE04C399659C8B6296A9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%BC%80%E6%B0%B4%E9%97%B4%E6%A0%87%E8%AF%86%E8%A2%AB%E6%8C%87%E4%B8%AD%E5%BC%8F%E8%8B%B1%E6%96%87%22%7D&rank=&style_id=40132&topic_id=7672712644710154303",
+          "meta": "热度 6121499"
         }
       ]
     },
@@ -789,61 +779,61 @@
           "rank": "1",
           "title": "总书记多次强调因地制宜",
           "href": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%A4%9A%E6%AC%A1%E5%BC%BA%E8%B0%83%E5%9B%A0%E5%9C%B0%E5%88%B6%E5%AE%9C&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7904638"
+          "meta": "热搜指数 7904604"
         },
         {
           "rank": "2",
           "title": "文献纪录片《江泽民》播出",
           "href": "https://www.baidu.com/s?wd=%E6%96%87%E7%8C%AE%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8B%E6%92%AD%E5%87%BA&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7809330"
+          "meta": "热搜指数 7808292"
         },
         {
           "rank": "3",
           "title": "东北被低估的城市 爆发了",
           "href": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E5%9F%8E%E5%B8%82+%E7%88%86%E5%8F%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7712078"
+          "meta": "热搜指数 7713022"
         },
         {
           "rank": "4",
           "title": "这个时代我们该追什么样的星",
           "href": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E6%88%91%E4%BB%AC%E8%AF%A5%E8%BF%BD%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%98%9F&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7619320"
+          "meta": "热搜指数 7617457"
         },
         {
           "rank": "5",
           "title": "租金从800元降到450元房东决定不租了",
           "href": "https://www.baidu.com/s?wd=%E7%A7%9F%E9%87%91%E4%BB%8E800%E5%85%83%E9%99%8D%E5%88%B0450%E5%85%83%E6%88%BF%E4%B8%9C%E5%86%B3%E5%AE%9A%E4%B8%8D%E7%A7%9F%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7524031"
+          "meta": "热搜指数 7520052"
         },
         {
           "rank": "6",
           "title": "河南平顶山发通知：停课停工停产停业",
           "href": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%8F%91%E9%80%9A%E7%9F%A5%EF%BC%9A%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7%E5%81%9C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7426099"
+          "meta": "热搜指数 7425341"
         },
         {
           "rank": "7",
-          "title": "女演员被曝1天只吃2个馒头 本人回应",
-          "href": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%AB%E6%9B%9D1%E5%A4%A9%E5%8F%AA%E5%90%832%E4%B8%AA%E9%A6%92%E5%A4%B4+%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7328024"
+          "title": "抗癌博主“江小鱼”去世",
+          "href": "https://www.baidu.com/s?wd=%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E2%80%9C%E6%B1%9F%E5%B0%8F%E9%B1%BC%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+          "meta": "热搜指数 7328979"
         },
         {
           "rank": "8",
-          "title": "抗癌博主“江小鱼”去世",
-          "href": "https://www.baidu.com/s?wd=%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E2%80%9C%E6%B1%9F%E5%B0%8F%E9%B1%BC%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7238431"
+          "title": "王曼昱极限倒地爆冲",
+          "href": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%9E%81%E9%99%90%E5%80%92%E5%9C%B0%E7%88%86%E5%86%B2&sa=fyb_news&rsv_dl=fyb_news",
+          "meta": "热搜指数 7232076"
         },
         {
           "rank": "9",
-          "title": "网红逍遥客为救父亲氨气中毒去世",
-          "href": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E9%80%8D%E9%81%A5%E5%AE%A2%E4%B8%BA%E6%95%91%E7%88%B6%E4%BA%B2%E6%B0%A8%E6%B0%94%E4%B8%AD%E6%AF%92%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7135490"
+          "title": "董宇辉也下场做卫生巾了",
+          "href": "https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E4%B9%9F%E4%B8%8B%E5%9C%BA%E5%81%9A%E5%8D%AB%E7%94%9F%E5%B7%BE%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "meta": "热搜指数 7141414"
         },
         {
           "rank": "10",
-          "title": "王曼昱极限倒地爆冲",
-          "href": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%9E%81%E9%99%90%E5%80%92%E5%9C%B0%E7%88%86%E5%86%B2&sa=fyb_news&rsv_dl=fyb_news",
-          "meta": "热搜指数 7041004"
+          "title": "借用30多年 兰州拉面还给兰州了",
+          "href": "https://www.baidu.com/s?wd=%E5%80%9F%E7%94%A830%E5%A4%9A%E5%B9%B4+%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E8%BF%98%E7%BB%99%E5%85%B0%E5%B7%9E%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+          "meta": "热搜指数 7045469"
         }
       ]
     },
@@ -917,144 +907,6 @@
       ]
     },
     {
-      "platform": "虎扑",
-      "category": "娱乐",
-      "icon": "/icons/hupu.svg",
-      "updatedAtText": "娱乐 / 步行街",
-      "sourceUrl": "https://bbs.hupu.com/all-gambia",
-      "items": [
-        {
-          "rank": "1",
-          "title": "发几张女友最近的照片",
-          "href": "https://bbs.hupu.com/641792753.html",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "我记得当年轰动全国的艳照门事件中也有她呀",
-          "href": "https://bbs.hupu.com/641792192.html",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "你们想看的特等功、一级战斗英雄他来了！抗美援朝志愿军杀敌人数排行榜榜首",
-          "href": "https://bbs.hupu.com/641790912.html",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "和i7的旅游碎片（加更）",
-          "href": "https://bbs.hupu.com/641787303.html",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "大爷:这不是偷拍，这个是vlog。",
-          "href": "https://bbs.hupu.com/641789715.html",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "詹姆斯和科比，谁的名声相对更差？",
-          "href": "https://bbs.hupu.com/641788039.html",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "猪脚饭卖1050一碗，含泪赚多少？",
-          "href": "https://bbs.hupu.com/641790178.html",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "日本神户市议员用中文不欢迎中国人去神户旅游",
-          "href": "https://bbs.hupu.com/641787801.html",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "91年在上海女丁克，资料展示",
-          "href": "https://bbs.hupu.com/641789918.html",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "兄弟们，女朋友因为我妈选了和他一样颜色的敬酒服生气了，是不是有点小题大做？",
-          "href": "https://bbs.hupu.com/641787504.html",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "时代周报",
-      "category": "新闻",
-      "icon": "/icons/timeweekly.svg",
-      "updatedAtText": "新闻 / 首页",
-      "sourceUrl": "https://www.time-weekly.com/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "利润赚百倍股价却几乎腰斩！AI存储狂欢要落幕？闪迪用两大底牌对抗周期崩盘趋势",
-          "href": "https://www.time-weekly.com/post/331799",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "不满房东暴力涨租，于东来宣布关掉年赚1亿的胖东来老店，自掏65亿建商场当“包租公”",
-          "href": "https://www.time-weekly.com/post/331782",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "国泰君安国际私有化退市背后：“牛市旗手”抢滩境外，约10家上市券商增资香港子公司",
-          "href": "https://www.time-weekly.com/post/331740",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "帝亚吉欧新CEO首份成绩单：上任8个月改革架构，降本10亿美元托底业绩，美中市场持续承压",
-          "href": "https://www.time-weekly.com/post/331738",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "美国设定进口地板价并加征关税！光伏反内卷再升级，八大硅料巨头承诺产品售价不低于成本",
-          "href": "https://www.time-weekly.com/post/331735",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "超360个问题！投资者涌进宇树交流会提问王兴兴",
-          "href": "https://www.time-weekly.com/post/331734",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "房子被写进“大宗消费”，楼市逻辑有何变化？赵燕菁：未来重点是旧房改造",
-          "href": "https://www.time-weekly.com/post/331802",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "百花医药6连板！一季度净利降超67%，公司：创新药业务占比很小",
-          "href": "https://www.time-weekly.com/post/331801",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "湖北前首富艾路明资本往事：从公厕掘金到千亿“当代系”崩塌，终身禁入证券市场，涉嫌非吸被刑拘",
-          "href": "https://www.time-weekly.com/post/331770",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "消费观察 便利店、面包房外排长队，广州地铁站正在被“爆改”成商场B1层 记者：胡文静 08月12日 00:12",
-          "href": "https://www.time-weekly.com/post/331820",
-          "meta": ""
-        }
-      ]
-    },
-    {
       "platform": "财经网",
       "category": "新闻",
       "icon": "/icons/caijing-news.svg",
@@ -1124,6 +976,75 @@
       ]
     },
     {
+      "platform": "经济观察网",
+      "category": "新闻",
+      "icon": "/icons/eeo.svg",
+      "updatedAtText": "新闻 / 商业",
+      "sourceUrl": "https://www.eeo.com.cn/",
+      "items": [
+        {
+          "rank": "1",
+          "title": "专访李开复：会议可以停！ “当企业里AI员工占到四分之三时，AI员工是不开会的，所以我们开的会自然就会减少。”",
+          "href": "http://www.eeo.com.cn/2026/0730/979950.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "2",
+          "title": "内外双重挤压，连锁药店何去何从？ 行业历经十余年的“跑马圈地”式扩张或将难以为继。",
+          "href": "http://www.eeo.com.cn/2026/0811/994513.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "3",
+          "title": "2026戛纳国际创意节",
+          "href": "https://www.eeo.com.cn/2026/0622/924985.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "4",
+          "title": "2026，不止是赛场",
+          "href": "https://www.eeo.com.cn/2026/0603/900723.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "5",
+          "title": "站在未来看现在 | 中国式现代化的重大启示",
+          "href": "https://www.eeo.com.cn/2024/0104/624195.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "6",
+          "title": "Take-Two（TTWO.US）GTA6预购表现出色 Q2及FY27指引不及预期",
+          "href": "http://www.eeo.com.cn/2026/0812/994807.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "7",
+          "title": "联合太平洋(UNP)上调全年EPS增长指引 市场对Q3预期较高",
+          "href": "http://www.eeo.com.cn/2026/0812/994806.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "8",
+          "title": "哈里伯顿（HAL）近期接连获沙特阿美等多地油气项目合同",
+          "href": "http://www.eeo.com.cn/2026/0812/994805.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "9",
+          "title": "恒生指数主连夜盘收跌0.37%",
+          "href": "http://www.eeo.com.cn/2026/0812/994804.shtml",
+          "meta": ""
+        },
+        {
+          "rank": "10",
+          "title": "“人民艺术家”郭兰英逝世 享年97岁",
+          "href": "http://www.eeo.com.cn/2026/0812/994803.shtml",
+          "meta": ""
+        }
+      ]
+    },
+    {
       "platform": "南方周末",
       "category": "新闻",
       "icon": "/icons/infzm.svg",
@@ -1150,7 +1071,7 @@
         },
         {
           "rank": "4",
-          "title": "大蒜如何用于防蚊虫 一项实验研究证实，大蒜提取物的确有防蚊虫的重要功效，但并非驱蚊防叮咬，而是作为一种强效“节育药”，抑制蚊虫的繁殖能力。 科学 5小时前 1评论",
+          "title": "大蒜如何用于防蚊虫 一项实验研究证实，大蒜提取物的确有防蚊虫的重要功效，但并非驱蚊防叮咬，而是作为一种强效“节育药”，抑制蚊虫的繁殖能力。 科学 6小时前 1评论",
           "href": "https://www.infzm.com/contents/328184?source=133&source_1=998",
           "meta": ""
         },
@@ -1174,13 +1095,13 @@
         },
         {
           "rank": "8",
-          "title": "02:3 定闹钟、拼手速、找黄牛......博物馆抢票比春运还难？ 热点 12小时前 3评论",
+          "title": "02:3 定闹钟、拼手速、找黄牛......博物馆抢票比春运还难？ 热点 13小时前 3评论",
           "href": "https://www.infzm.com/contents/328162?source=133&source_1=998",
           "meta": ""
         },
         {
           "rank": "9",
-          "title": "爱上修脚的年轻人，撑起300亿元的“修脚帝国” 终于有人懂修脚的快乐了 城市画报 12小时前 5评论",
+          "title": "爱上修脚的年轻人，撑起300亿元的“修脚帝国” 终于有人懂修脚的快乐了 城市画报 13小时前 5评论",
           "href": "https://www.infzm.com/contents/327301?source=133&source_1=998",
           "meta": ""
         },
@@ -1294,14 +1215,14 @@
         },
         {
           "rank": "5",
-          "title": "月销1辆，雪佛兰败走中国，合资车企绝佳的止损样本",
-          "href": "https://www.cyzone.cn/article/842711.html",
+          "title": "一夜“消失”的兰州拉面，背后有高人",
+          "href": "https://www.cyzone.cn/article/842708.html",
           "meta": ""
         },
         {
           "rank": "6",
-          "title": "一夜“消失”的兰州拉面，背后有高人",
-          "href": "https://www.cyzone.cn/article/842708.html",
+          "title": "月销1辆，雪佛兰败走中国，合资车企绝佳的止损样本",
+          "href": "https://www.cyzone.cn/article/842711.html",
           "meta": ""
         },
         {
@@ -1710,20 +1631,20 @@
         },
         {
           "rank": "4",
-          "title": "外国开发者，闯进小红书",
-          "href": "https://www.chuapp.com/article/291512.html",
+          "title": "触乐本周行业大事：多家大厂发布半年度业绩预告，《追逐卡蕾多》开测，《雾影猎人》定档",
+          "href": "https://www.chuapp.com/article/291491.html",
           "meta": ""
         },
         {
           "rank": "5",
-          "title": "一款游戏和它背后的世界遗产",
-          "href": "https://www.chuapp.com/article/291506.html",
+          "title": "一场主播办的《三角洲行动》比赛，怎么就坐满了万人体育场？",
+          "href": "https://www.chuapp.com/article/291493.html",
           "meta": ""
         },
         {
           "rank": "6",
-          "title": "“与AI同游”：今年的ChinaJoy，把AI写进了主题",
-          "href": "https://www.chuapp.com/article/291524.html",
+          "title": "外国开发者，闯进小红书",
+          "href": "https://www.chuapp.com/article/291512.html",
           "meta": ""
         },
         {
@@ -1734,20 +1655,20 @@
         },
         {
           "rank": "8",
-          "title": "独立开发者跑展会，是怎么算账的？",
-          "href": "https://www.chuapp.com/article/291537.html",
+          "title": "世界级电竞赛事，来到普通人身边",
+          "href": "https://www.chuapp.com/article/291498.html",
           "meta": ""
         },
         {
           "rank": "9",
-          "title": "触乐本周行业大事：多家大厂发布半年度业绩预告，《追逐卡蕾多》开测，《雾影猎人》定档",
-          "href": "https://www.chuapp.com/article/291491.html",
+          "title": "“与AI同游”：今年的ChinaJoy，把AI写进了主题",
+          "href": "https://www.chuapp.com/article/291524.html",
           "meta": ""
         },
         {
           "rank": "10",
-          "title": "一场主播办的《三角洲行动》比赛，怎么就坐满了万人体育场？",
-          "href": "https://www.chuapp.com/article/291493.html",
+          "title": "FGO十周年，我是那见证者",
+          "href": "https://www.chuapp.com/article/291520.html",
           "meta": ""
         }
       ]
@@ -2098,1110 +2019,6 @@
           "meta": ""
         }
       ]
-    },
-    {
-      "platform": "GameRes",
-      "category": "游戏",
-      "icon": "/icons/gameres.svg",
-      "updatedAtText": "游戏 / 研发资讯",
-      "sourceUrl": "https://www.gameres.com/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "刑事打击落地，手瓦冲在了反外挂最前线",
-          "href": "https://www.gameres.com/901202505.html",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "鹰角办展，怎么就让玩家“偷渡”泰拉、穿越塔卫二了",
-          "href": "https://www.gameres.com/901202484.html",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "百人团队誓要挑动二游市场的空白赛道",
-          "href": "https://www.gameres.com/901202465.html",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "从出海到入海，中国 PC 与主机游戏还要迈过一道坎",
-          "href": "https://www.gameres.com/901202452.html",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "身和心必须有一个在路上，yoi分享自驾川西放置游戏创作历程",
-          "href": "https://www.gameres.com/901202438.html",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "吹哥分享《沉星之序》设计：让游戏中的各个元素交互产生美妙反馈",
-          "href": "https://www.gameres.com/901202420.html",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "为什么你的角色没有灵魂？可能是你忽视了这个细节",
-          "href": "https://www.gameres.com/901202483.html",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "《逆战：未来》IP联动驱动的赛季刷宝射击运营分析",
-          "href": "https://www.gameres.com/901202466.html",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "PC小游戏新政发布！额外激励10%广告金，有效期可延长至12个月",
-          "href": "https://www.gameres.com/901202444.html",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "写实动作游戏打击感个人实践与经验总结",
-          "href": "https://www.gameres.com/901202502.html",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "手游那点事",
-      "category": "游戏",
-      "icon": "/icons/nadianshi.svg",
-      "updatedAtText": "游戏 / 手游行业",
-      "sourceUrl": "http://www.nadianshi.com/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "在莉莉丝：一支40人团队，两个月撬动了2亿流水？",
-          "href": "http://www.nadianshi.com/2026/08/417895",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "被抄袭后上架抖音：一场风波，却让一款“砸猪”游戏火了？",
-          "href": "http://www.nadianshi.com/2026/08/417853",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "在台风天的上海，这款3年的二游燃起来了",
-          "href": "http://www.nadianshi.com/2026/08/417805",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "上海大厂火速达成“中韩”联手：刚拿版号7天，国服官宣了！",
-          "href": "http://www.nadianshi.com/2026/08/417641",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "新作获100%好评，制作人兼主美：AI时代，放下焦虑",
-          "href": "http://www.nadianshi.com/2026/08/417676",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "突然，买断二游与免费二游吵翻了：到底谁更牛？",
-          "href": "http://www.nadianshi.com/2026/08/416391",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "七年仍居畅销前十，1.6万件衣服：“换装天花板”又一次闪耀全场",
-          "href": "http://www.nadianshi.com/2026/08/417613",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "4000万用户，《鹅鸭杀》让金山世游从此“站”起来？",
-          "href": "http://www.nadianshi.com/2026/08/417595",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "爆卖近1000万，对话制作人：干了20年，决定在中国拼一把",
-          "href": "http://www.nadianshi.com/2026/08/416894",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "腾讯4小时闭门分享，光子朱峰：从0到1做3A，坚守长期主义",
-          "href": "http://www.nadianshi.com/2026/08/417456",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "indienova",
-      "category": "游戏",
-      "icon": "/icons/indienova.svg",
-      "updatedAtText": "游戏 / 独立游戏",
-      "sourceUrl": "https://indienova.com/indie-game-news/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "游戏创意的希望！2026CUSGA决赛获奖名单正式公布！",
-          "href": "https://indienova.com/indie-game-news/2026-cusga-finalists/",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "诺娃独立游戏通讯 2026-#32",
-          "href": "https://indienova.com/indie-game-news/nova-post-2026-32/",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "本周 Steam 值得关注的游戏 08.10 - 08.16（二）",
-          "href": "https://indienova.com/indie-game-news/guide-2026-0810-0816-part-2/",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "我真的做不动音游了，所以我们来举办 GameJam 吧！",
-          "href": "https://indienova.com/indie-game-news/ciga-game-jam-2026-xi-an/",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "本周 Steam 值得关注的游戏 08.10 - 08.16（一）",
-          "href": "https://indienova.com/indie-game-news/guide-2026-0810-0816-part-1/",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "itch 一周游戏汇：7月27日-8月2日（下）",
-          "href": "https://indienova.com/indie-game-news/itch-new-games-summary-of-last-week-2026-0727-0802-part2/",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "2026-07 媒体评分",
-          "href": "https://indienova.com/indie-game-news/metacritic-recap-2026-07/",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "《红鹿旅馆》：绣布上的捷克童话",
-          "href": "https://indienova.com/indie-game-review/scarlet-deer-inn-review/",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "本周 Steam 值得关注的游戏 08.03 - 08.09（四）",
-          "href": "https://indienova.com/indie-game-news/guide-2026-0803-0809-part-4/",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "itch 一周游戏汇：7月27日-8月2日（上）",
-          "href": "https://indienova.com/indie-game-news/itch-new-games-summary-of-last-week-2026-0727-0802-part1/",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "AUTOMATON",
-      "category": "游戏",
-      "icon": "/icons/automaton.svg",
-      "updatedAtText": "游戏 / 主机与独立游戏",
-      "sourceUrl": "https://automaton-china.com/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "《无人深空》十周年创始人纪念致辞 目前玩家仅探索了宇宙的1%",
-          "href": "https://automaton-china.com/all/article/news/20260811-28000-wu-ren-shen-kong-shi-zhou-nian/",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "猛人出现！《宝可梦 Pokopia》玩家花3天抽干整片海底城镇海水",
-          "href": "https://automaton-china.com/all/article/headline/20260811-27994-bao-ke-meng-pokopia-wan-jia-chou-shui/",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "真实狗狗模拟游戏《金毛的温馨日常》将登陆Steam 试玩版8月11日上线",
-          "href": "https://automaton-china.com/all/article/news/20260810-27989-jin-mao-de-wen-xin-ri-chang/",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "《轮回之兽》1.0.7更新补丁 改善镜头距离、字幕大小及战斗平衡性调整",
-          "href": "https://automaton-china.com/all/article/news/20260810-27980-lun-hui-zhi-shou-107-geng-xin-bu-ding/",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "朝凪x陽向葵ゅか 健身音乐节奏游戏《加油!欢呼节奏》公布",
-          "href": "https://automaton-china.com/all/article/news/20260810-27981-chao-zhi-x-yang-xiang-kui-jian-shen-yin-yue-jie-zou-you-xi/",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "动作RPG《夜勤人2》试玩版全平台正式上线 限时免费领取初代",
-          "href": "https://automaton-china.com/all/article/news/20260807-27973-dong-zuo-rpg-ye-qin-ren-2/",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "探访鹰角网络CGF2026：游戏作品、行业经验与学生创意在上海交汇",
-          "href": "https://automaton-china.com/all/article/news/20260807-27952-tan-fang-ying-jiao-wang-luo-cgf2026/",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "《鬼武者 剑之道》制作人采访 游戏邀请真正的“剑术达人”进行动作捕捉",
-          "href": "https://automaton-china.com/all/article/interview/20260807-27930-gui-wu-zhe-jian-zhi-dao-cai-fang/",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "《疯狂出租车：极速环游》封闭测试玩家招募开启 抢先体验系列首次加入的在线多人模式!",
-          "href": "https://automaton-china.com/all/article/news/20260807-27943-feng-kuang-chu-zu-che-ji-su-huan-you-feng-bi-ce-shi/",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "撸猫建厂两不误 Gamirror Games将发行自动化游戏《喵喵工厂》",
-          "href": "https://automaton-china.com/all/article/news/20260807-27932-lu-mao-jian-chang-liang-bu-wu-gamirrorgames-jfa-xing-miao-miao-gong-chang/",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "竞核",
-      "category": "游戏",
-      "icon": "/icons/cgames.svg",
-      "updatedAtText": "游戏 / 深度观察",
-      "sourceUrl": "https://www.cgames.com/channels/2.html",
-      "items": [
-        {
-          "rank": "1",
-          "title": "腾网字节AI游戏大战的上半场",
-          "href": "https://www.cgames.com/contents/2/12522.html",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "1年1亿用户，腾讯最年轻的射击游戏超能打",
-          "href": "https://www.cgames.com/contents/2/12509.html",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "这个夏天，年轻人在深圳秀出了自己的潮流",
-          "href": "https://www.cgames.com/contents/2/12507.html",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "起猛了，我也是在终末地里追上少女偶像了",
-          "href": "https://www.cgames.com/contents/2/12494.html",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "1000人的livehouse里，这家二游厂商找到了小而美...",
-          "href": "https://www.cgames.com/contents/2/12492.html",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "5000万预约，天美新作定档9月，制作人：上线只是第...",
-          "href": "https://www.cgames.com/contents/2/12490.html",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "尘白禁区发行制作人离职；沙特土豪近4000亿顺利...",
-          "href": "https://www.cgames.com/contents/2/12488.html",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "这一次，腾讯想填补国内射击空白",
-          "href": "https://www.cgames.com/contents/2/12484.html",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "火到炸服，网易全新搜打撤给到夯",
-          "href": "https://www.cgames.com/contents/2/12482.html",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "年薪百万，估值5000亿的Deepseek进游戏圈抢人了",
-          "href": "https://www.cgames.com/contents/2/12480.html",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "GamerBBS",
-      "category": "游戏",
-      "icon": "/icons/gamerbbs.svg",
-      "updatedAtText": "游戏 / 游戏营销",
-      "sourceUrl": "https://www.gamerbbs.cn/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "枪响正当燃!2026穿越火线IP嘉年华收官，开启CF长青新征程",
-          "href": "https://www.gamerbbs.cn/archives/73406",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "王者荣耀IP新游《王者万象棋》定档9月，多项重磅计划发布",
-          "href": "https://www.gamerbbs.cn/archives/73403",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "留给其他都市开放世界二游的时间不多了 | 游戏干线",
-          "href": "https://www.gamerbbs.cn/archives/73277",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "体游联动助力申城主场，FC品类游戏携手上海文旅打造城市嘉年华",
-          "href": "https://www.gamerbbs.cn/archives/73260",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "《SlashZero》深圳核聚变试玩测评：动作与Roguelike的立体赛博时空交响曲",
-          "href": "https://www.gamerbbs.cn/archives/73223",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "DAU破5000万后，《三角洲行动》还在给FPS寻找新答案",
-          "href": "https://www.gamerbbs.cn/archives/73282",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "《盛世天下》女帝篇今日上线：从“他们”的故事到“自己”的故事",
-          "href": "https://www.gamerbbs.cn/archives/73162",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "SCS广州赛圆满落幕，但在我看来这或许是中国格斗踏上新征程的起点",
-          "href": "https://www.gamerbbs.cn/archives/73086",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "《梦幻西游》手游登iOS畅销榜TOP2：MMO游戏照样能在当今逆势生长",
-          "href": "https://www.gamerbbs.cn/archives/73387",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "为什么说中小团队UGC掘金，必看这场大会？",
-          "href": "https://www.gamerbbs.cn/archives/73309",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "切游网",
-      "category": "游戏",
-      "icon": "/icons/qieyou.svg",
-      "updatedAtText": "游戏 / 手游动态",
-      "sourceUrl": "https://www.qieyou.com/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "鸣潮× 赛博朋克：边缘行者联动PV 现正式发布",
-          "href": "https://www.qieyou.com/content/156672",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "世界之外天命特殊副本临近 将于本月10日正式关闭",
-          "href": "https://www.qieyou.com/content/156670",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "鸣潮「未选择的梦」3.4版本今日更新 海量活动来袭",
-          "href": "https://www.qieyou.com/content/156668",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "三角洲行动全新「裂变」赛季官宣 6月26日正式开启",
-          "href": "https://www.qieyou.com/content/156671",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "战双帕弥什「丽芙·霁梦」涂装印象PV视频现上线",
-          "href": "https://www.qieyou.com/content/156663",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "LOL手游凯尔特人传奇莫德凯撒9日开启超前体验",
-          "href": "https://www.qieyou.com/content/156673",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "7月版号下发：193款国产+4款进口，影之刃零拿下PS5版号",
-          "href": "https://www.qieyou.com/content/156677",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "三角洲行动全新工程型干员液氮官宣 6月26日将登场",
-          "href": "https://www.qieyou.com/content/156676",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "蛋仔派对S31外观PV西湖寻缘季发布 本月12日开启",
-          "href": "https://www.qieyou.com/content/156675",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "燕云十六声曲阜孔庙联动开启 将于本日至9日开启",
-          "href": "https://www.qieyou.com/content/156665",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "游戏日报",
-      "category": "游戏",
-      "icon": "/icons/yxrb.svg",
-      "updatedAtText": "游戏 / 行业报道",
-      "sourceUrl": "https://news.yxrb.net/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "被逼进“路边小店”的二游线下庆典，赢过了台风！",
-          "href": "https://news.yxrb.net/2026/0811/7423.html",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "ChinaJoy的“结构级新变化”正在发生",
-          "href": "https://news.yxrb.net/2026/0805/7399.html",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "AI游戏的未来正在浮出水面",
-          "href": "https://news.yxrb.net/2026/0805/7403.html",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "半年过去，鹰角把“南墙”撞破了",
-          "href": "https://news.yxrb.net/2026/0724/7319.html",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "《三角洲行动》的“第三个大模式”要来了？",
-          "href": "https://news.yxrb.net/2026/0715/7260.html",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "7月全球最赚钱的手游：TOP5迎来巨变；米哈游三箭齐发",
-          "href": "https://news.yxrb.net/2026/0811/7424.html",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "老牌游戏大厂的“守”与“进”",
-          "href": "https://news.yxrb.net/2026/0804/7390.html",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "米哈游赌“赢”了",
-          "href": "https://news.yxrb.net/2026/0731/7357.html",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "手瓦与瓦，正露锋芒",
-          "href": "https://news.yxrb.net/2026/0811/7422.html",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "再度大改、开赛即爆，搜打撤电竞好像真被三角洲“搞明白了”",
-          "href": "https://news.yxrb.net/2026/0810/7420.html",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "网易新闻",
-      "category": "新闻",
-      "icon": "/icons/netease.svg",
-      "updatedAtText": "新闻 / 排行榜",
-      "sourceUrl": "https://news.163.com/rank/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "侃天下 |“海燕”被发现了？俄罗斯核动力巡航导弹",
-          "href": "https://www.163.com/dy/article/JBL1FO3B0530WJTO.html",
-          "meta": "点击 85977"
-        },
-        {
-          "rank": "2",
-          "title": "发现租户患晚期癌症后担心房子成“凶宅”掉价，房东",
-          "href": "https://www.163.com/dy/article/JBJ4KNRE051492T3.html",
-          "meta": "点击 62963"
-        },
-        {
-          "rank": "3",
-          "title": "葡萄牙2-1逆转苏格兰！欧国联2连胜，C罗替补绝",
-          "href": "https://www.163.com/dy/article/JBKA4PJI05497GLB.html",
-          "meta": "点击 62130"
-        },
-        {
-          "rank": "4",
-          "title": "\"我也对中方说过，唯一不能做的事就是放弃乌克兰\"",
-          "href": "https://www.163.com/dy/article/JBIS8AIH00019B3E.html",
-          "meta": "点击 58138"
-        },
-        {
-          "rank": "5",
-          "title": "\"如果是乌克兰破坏的，那德国应该停止调查\"",
-          "href": "https://www.163.com/dy/article/JBLA21T10001899O.html",
-          "meta": "点击 56350"
-        },
-        {
-          "rank": "6",
-          "title": "买家集中在上海！这届年轻人突然把石头当宠物养！还",
-          "href": "https://www.163.com/dy/article/JBIT588F0512DU6N.html",
-          "meta": "点击 51795"
-        },
-        {
-          "rank": "7",
-          "title": "把单间换给政府官员？知名企业家“吐槽”在贵州天眼",
-          "href": "https://www.163.com/dy/article/JBLHAVGS053469LG.html",
-          "meta": "点击 47899"
-        },
-        {
-          "rank": "8",
-          "title": "沙特主帅曼奇尼：中国队是很好的球队，我们会努力多",
-          "href": "https://www.163.com/dy/article/JBLMOK9F0514R9P4.html",
-          "meta": "点击 47465"
-        },
-        {
-          "rank": "9",
-          "title": "专家发声：英语教材难？买产品啊 家长不要制造恐",
-          "href": "https://www.163.com/dy/article/JBL1QHA405566ZVZ.html",
-          "meta": "点击 34235"
-        },
-        {
-          "rank": "10",
-          "title": "现身香港，喜提新身份，住上亿豪宅！",
-          "href": "https://www.163.com/dy/article/JBGRP9DC05561QDT.html",
-          "meta": "点击 31654"
-        }
-      ]
-    },
-    {
-      "platform": "IT之家",
-      "category": "科技",
-      "icon": "/icons/ithome.svg",
-      "updatedAtText": "科技 / 首页热点",
-      "sourceUrl": "https://www.ithome.com/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "DeepSeek 梁文锋财富一年暴涨 3850%",
-          "href": "https://www.ithome.com/0/988/396.htm",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "REDMI K100 Pro / Max 手机发布",
-          "href": "https://www.ithome.com/0/988/472.htm",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "DeepSeek 被曝偷偷给用户取外号，AI 回应称只是临时“打标签”、不会记忆",
-          "href": "https://www.ithome.com/0/988/136.htm",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "能偷拍的“折射手机壳”热卖，总台中国之声警告生产销售和使用均涉嫌违法",
-          "href": "https://www.ithome.com/0/988/108.htm",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "苹果 iOS / iPadOS 27 Beta 5 更新汇总：Safari 等启用新图标，Siri AI 支持定制语音等",
-          "href": "https://www.ithome.com/0/988/076.htm",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "iOS 27 Beta 5 发现国行 Apple Intelligence 踪迹：本地处理 iPhone 17 等用户请求",
-          "href": "https://www.ithome.com/0/988/254.htm",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "卢伟冰：小米是全球第三家、国内首家能从发光材料层做自研的厂商",
-          "href": "https://www.ithome.com/0/988/317.htm",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "比亚迪 2027 款海豹 06 家轿上市：天神之眼 B-辅助驾驶激光版、第二代刀片电池，9.99 万元起",
-          "href": "https://www.ithome.com/0/988/487.htm",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "增幅 11.78%：苹果 iPhone 18 Pro Max 电池实物曝光，5391 mAh",
-          "href": "https://www.ithome.com/0/988/330.htm",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "国产大飞机 C919 明日执飞首个国际商业航班，北京首都⇌乌兰巴托",
-          "href": "https://www.ithome.com/0/988/229.htm",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "CNBeta",
-      "category": "科技",
-      "icon": "/icons/cnbeta.svg",
-      "updatedAtText": "科技 / Tech 分类",
-      "sourceUrl": "https://www.cnbeta.com.tw/category/tech.htm",
-      "items": [
-        {
-          "rank": "1",
-          "title": "达美航空一客机中途惊现伪造Wi-Fi信号 公司已启动调查",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572758.htm",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "iOS 27新特性：苹果为高阶iCloud+订阅用户推出智能家居独家权益",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572754.htm",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "Google测试全新搜索首页：经典搜索按钮被撤 全面适用AI功能",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572752.htm",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "Manus宣布将恢复独立运营 部分用户需在限期内完成数据备份",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572750.htm",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "英伟达推出首款开源AI模型Nemotron 3.5 Lightning",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572748.htm",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "联想卷轴屏新机 Project Swan 曝光 主打商务办公市场",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572746.htm",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "苹果iOS 27测试版代码披露六款未发布iPhone代号 包含首款折叠屏",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572744.htm",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "美政府机构遭朝鲜IT人员渗透隐瞒身份混入并履职",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572742.htm",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "iPhone 18 Pro基础存储容量预计将维持在256GB",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572740.htm",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "达美乐将推出单人款新品披萨 满足不愿与人分食的食客需求",
-          "href": "https://www.cnbeta.com.tw/articles/tech/1572738.htm",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "雷峰网",
-      "category": "科技",
-      "icon": "/icons/leiphone.svg",
-      "updatedAtText": "科技 / AI 分类",
-      "sourceUrl": "https://www.leiphone.com/category/ai",
-      "items": [
-        {
-          "rank": "1",
-          "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
-          "href": "https://www.leiphone.com/category/yanxishe/iIRqNx8RhKLrA9Ol.html",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？",
-          "href": "https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山",
-          "href": "https://www.leiphone.com/category/yanxishe/Ga2vGDMkzS2dp4Ew.html",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "GPT-Live 底层拆解：OpenAI 如何让 95% 的音频帧不再延迟",
-          "href": "https://www.leiphone.com/category/ai/zYdlF2GT2z5SbNLT.html",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "世界模型迎来「中国引领时刻」，昆仑万维 Matrix-Game 3.5 要迈向真实世界",
-          "href": "https://www.leiphone.com/category/industrynews/bugwcjvZxhFyiRY1.html",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "苏神复盘 Kimi K3：896 个专家背后，藏着哪些关键技术取舍？",
-          "href": "https://www.leiphone.com/category/ai/1krGNVOmEZUQgc9w.html",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山",
-          "href": "https://www.leiphone.com/category/ai/woyyD9TFUP2pnDOC.html",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "李飞飞、Yilun Du罕见联手：别给机器人建大脑了，直接偷视频模型的｜GAIR Paper 115",
-          "href": "https://www.leiphone.com/category/ai/CmG0TpbUIhu1EHkl.html",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "蚂蚁集团 IJCAI 2026 论文盘点：让 AI 学会「随机应变」",
-          "href": "https://www.leiphone.com/category/academic/E6Goi7fB66O6a4gN.html",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "对话 IDEA 张磊：「不以动作为输入条件，就不叫世界模型」",
-          "href": "https://www.leiphone.com/category/academic/wQny8Cer4EJz0RAU.html",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "OSCHINA",
-      "category": "科技",
-      "icon": "/icons/oschina.svg",
-      "updatedAtText": "科技 / 新闻列表",
-      "sourceUrl": "https://www.oschina.net/news",
-      "items": [
-        {
-          "rank": "1",
-          "title": "潮起潮落，你我仍在 | 2026 腾讯云粤港澳大湾区架构师峰会",
-          "href": "https://www.oschina.net/news/489697",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "Rust 项目团队宣布 LLM 政策：不禁止，但你要承认哪些代码不是你写的",
-          "href": "https://www.oschina.net/news/489832/rust-langrust-is-adopting-an-llm-policy",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "Jeff Dean 离开 Google：一个时代的结束，一个实验室的开始",
-          "href": "https://www.oschina.net/news/488566",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "许多顶级实验室的人现在几乎不读论文了",
-          "href": "https://www.oschina.net/news/490131",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "一条“删库”命令跑 17 小时，算法工程师删光 89TB 数据只为干私活",
-          "href": "https://www.oschina.net/news/488025",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "一名开发者将 Android 手机换成了 Linux，称“AOSP 已死”",
-          "href": "https://www.oschina.net/news/492313/switch-android-to-linux",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "OpenAI 宣布为 GPT-5.6 Sol 调优，并让免费用户无限用 Luna",
-          "href": "https://www.oschina.net/news/490138/improving-gpt-5-6-sol-in-chatgpt",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "Windows 11 内置天气 App 占用内存超过 1GB",
-          "href": "https://www.oschina.net/news/491873/windows-11-s-built-in-weather-app-wastes-more-than-1gb-of-ram",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "张一鸣的三次否决：字节跳动为什么不蒸馏",
-          "href": "https://www.oschina.net/news/489199/bytedances-founder-rules-distillation-ai-models",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "DeepSeek 将上调 API 定价，涨幅较大",
-          "href": "https://www.oschina.net/news/488654",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "界面新闻",
-      "category": "财经",
-      "icon": "/icons/jiemian.svg",
-      "updatedAtText": "财经 / 快报",
-      "sourceUrl": "https://www.jiemian.com/lists/4.html",
-      "items": [
-        {
-          "rank": "1",
-          "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
-          "href": "https://www.jiemian.com/article/14908516.html",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "台风“灿鸿”袭击日本关东地区",
-          "href": "https://www.jiemian.com/article/14908510.html",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "东百集团：上半年归母净利润同比增长4.44%",
-          "href": "https://www.jiemian.com/article/14908504.html",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "中国人保：提名谭炯为执行董事候选人并选举其为董事长",
-          "href": "https://www.jiemian.com/article/14908496.html",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "津巴布韦一艘载有90余人的船只倾覆",
-          "href": "https://www.jiemian.com/article/14908494.html",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "泸州酒类行业协会：注销泸州市酒类行业协会白酒标准化委员会",
-          "href": "https://www.jiemian.com/article/14908488.html",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "欧洲主要股指收盘涨跌不一",
-          "href": "https://www.jiemian.com/article/14908484.html",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
-          "href": "https://www.jiemian.com/article/14908479.html",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "南非西北省一矿区塌方致14人死亡",
-          "href": "https://www.jiemian.com/article/14908474.html",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "安徽建工集团与新疆水发集团签订战略合作协议",
-          "href": "https://www.jiemian.com/article/14908469.html",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "搜狐新闻",
-      "category": "新闻",
-      "icon": "/icons/sohu.svg",
-      "updatedAtText": "新闻 / 首页热点",
-      "sourceUrl": "https://news.sohu.com/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "����Ů��ʦ�ձ�ʧ��������� �����߰���������",
-          "href": "https://www.sohu.com/a/160509268_665455",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "����ȫ������ʱ������ �Ǽۻ���Զ��",
-          "href": "https://www.sohu.com/a/160255914_665455",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "Ҷͦ�������̡�������ҵ�� �е�������û������",
-          "href": "https://www.sohu.com/a/160107789_665455",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "ϰ��ƽ̸��ʱ��ѡ�����˵ġ���ߡ�",
-          "href": "https://www.sohu.com/a/201109756_162758",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "���·ܽ�������ʱ�� �������������»Ի�",
-          "href": "https://www.sohu.com/a/201021575_267106",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "ʮ�Ŵ���һ�ܴ���Ƶ�� ���ݺ����ź�",
-          "href": "https://www.sohu.com/a/201051231_357283",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "ȫ���˴�ί�������� �����̷�������",
-          "href": "https://www.sohu.com/a/201044512_123753",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "2018��������쿪ʼ���� ��Щ�˲��ܱ���",
-          "href": "https://www.sohu.com/a/201045244_123753",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "������������ 13��ʡ��������½����µ�",
-          "href": "https://www.sohu.com/a/201100221_114731",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "��Ӣ�Ĺ��������� �Գơ�̨����ϵ��ǰ��δ��",
-          "href": "https://www.sohu.com/a/201088513_115479",
-          "meta": ""
-        }
-      ]
-    },
-    {
-      "platform": "爱范儿",
-      "category": "科技",
-      "icon": "/icons/ifanr.svg",
-      "updatedAtText": "科技 / 首页热点",
-      "sourceUrl": "https://www.ifanr.com/",
-      "items": [
-        {
-          "rank": "1",
-          "title": "V8+手动挡，「大黄蜂」科迈罗推出四门版，但我们再也见不到它了",
-          "href": "https://www.ifanr.com/1674611",
-          "meta": ""
-        },
-        {
-          "rank": "2",
-          "title": "预售价 25.98 万元！小鹏 G9L 少了一排座椅，却要去往更大的全球市场",
-          "href": "https://www.ifanr.com/1674751",
-          "meta": ""
-        },
-        {
-          "rank": "3",
-          "title": "6.39 万起！零跑 A05 要把纯电小车重新卷一遍",
-          "href": "https://www.ifanr.com/1674769",
-          "meta": ""
-        },
-        {
-          "rank": "4",
-          "title": "9.99 万元起！新款海豹 06 上市，天神之眼 B、闪充和云辇-C 都来了",
-          "href": "https://www.ifanr.com/1674738",
-          "meta": ""
-        },
-        {
-          "rank": "5",
-          "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
-          "href": "https://www.ifanr.com/1674661",
-          "meta": ""
-        },
-        {
-          "rank": "6",
-          "title": "双 17.2 英寸大屏、首发鸿蒙座舱 6，奕境 X9 最后一张牌留给价格",
-          "href": "https://www.ifanr.com/1674705",
-          "meta": ""
-        },
-        {
-          "rank": "7",
-          "title": "对话智界赵长江：用旧时代的逻辑，经营不好 AI 时代的汽车公司",
-          "href": "https://www.ifanr.com/1674637",
-          "meta": ""
-        },
-        {
-          "rank": "8",
-          "title": "早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热",
-          "href": "https://www.ifanr.com/1674633",
-          "meta": ""
-        },
-        {
-          "rank": "9",
-          "title": "星海 V6 预售 10.49 万元起，华为智驾与十万级大六座的双向奔赴",
-          "href": "https://www.ifanr.com/1674592",
-          "meta": ""
-        },
-        {
-          "rank": "10",
-          "title": "Seedance 2.5 之后，AI 视频进入 Harness 时代",
-          "href": "https://www.ifanr.com/1674604",
-          "meta": ""
-        }
-      ]
     }
   ],
   "sourceStatus": [
@@ -3237,8 +2054,8 @@
     },
     {
       "source": "cto51-ai",
-      "status": "ok",
-      "detail": "51CTO AI"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "csdn-ai",
@@ -3277,13 +2094,13 @@
     },
     {
       "source": "hupu",
-      "status": "ok",
-      "detail": "虎扑"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "timeweekly",
-      "status": "ok",
-      "detail": "时代周报"
+      "status": "error",
+      "detail": "This operation was aborted"
     },
     {
       "source": "caijing-news",
@@ -3292,8 +2109,8 @@
     },
     {
       "source": "eeo",
-      "status": "error",
-      "detail": "fetch failed"
+      "status": "ok",
+      "detail": "经济观察网"
     },
     {
       "source": "infzm",
@@ -3378,12 +2195,12 @@
     {
       "source": "gamelook",
       "status": "error",
-      "detail": "This operation was aborted"
+      "detail": "fetch failed"
     },
     {
       "source": "gameres",
-      "status": "ok",
-      "detail": "GameRes"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "youxituoluo",
@@ -3392,43 +2209,43 @@
     },
     {
       "source": "nadianshi",
-      "status": "ok",
-      "detail": "手游那点事"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "indienova",
-      "status": "ok",
-      "detail": "indienova"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "automaton",
-      "status": "ok",
-      "detail": "AUTOMATON"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "cgames",
-      "status": "ok",
-      "detail": "竞核"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "gamerbbs",
-      "status": "ok",
-      "detail": "GamerBBS"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "gamereactor",
       "status": "error",
-      "detail": "HTTP 403"
+      "detail": "fetch failed"
     },
     {
       "source": "qieyou",
-      "status": "ok",
-      "detail": "切游网"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "yxrb",
-      "status": "ok",
-      "detail": "游戏日报"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "gamedog",
@@ -3437,48 +2254,48 @@
     },
     {
       "source": "netease",
-      "status": "ok",
-      "detail": "网易新闻"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "thepaper",
       "status": "error",
-      "detail": "HTTP 403"
+      "detail": "fetch failed"
     },
     {
       "source": "ithome",
-      "status": "ok",
-      "detail": "IT之家"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "cnbeta",
-      "status": "ok",
-      "detail": "CNBeta"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "leiphone",
-      "status": "ok",
-      "detail": "雷峰网"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "oschina",
-      "status": "ok",
-      "detail": "OSCHINA"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "jiemian",
-      "status": "ok",
-      "detail": "界面新闻"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "sohu",
-      "status": "ok",
-      "detail": "搜狐新闻"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "ifanr",
-      "status": "ok",
-      "detail": "爱范儿"
+      "status": "error",
+      "detail": "fetch failed"
     },
     {
       "source": "csdn",
@@ -3541,7 +2358,7 @@
       "detail": "fetch failed"
     }
   ],
-  "fetchedAt": "2026-08-11T18:48:08.219Z",
-  "fetchedAtLabel": "2026/8/12 02:48:08",
+  "fetchedAt": "2026-08-11T19:55:04.397Z",
+  "fetchedAtLabel": "2026/8/12 03:55:04",
   "mode": "static-pages"
 }
